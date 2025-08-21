@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Address,LoyaltyPoints,LastUpdated
+C001,Alice Walker,alice.walker@email.com,123 Main St NY,29-04-1900 00:00,19-08-2025 15:30
+C002,Bob Harris,bob.harris@email.com,456 Oak St Chicago,18-07-1900 00:00,20-08-2025 11:45
+C003,Clara Evans,clara.evans@email.com,789 Pine St SF,30-03-1900 00:00,21-08-2025 09:10
+C004,David Lee,david.lee@email.com,321 Maple St LA,19-02-1900 00:00,17-08-2025 16:20
+,,,,,
